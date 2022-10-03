@@ -1,4 +1,4 @@
-package com.kiran.springbootkafka;
+package com.kiran.springboot.springbootkafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
